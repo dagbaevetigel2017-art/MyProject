@@ -1,1 +1,1 @@
-print('Updated from GitHub')
+print('Changed locally')
