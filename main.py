@@ -1,2 +1,1 @@
-print('Hello World v2')
-print('Feature code')
+print('Updated from GitHub')
